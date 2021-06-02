@@ -1,5 +1,3 @@
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 print("Esto"+"Es"+"Una"+"Prueba\n")
 
