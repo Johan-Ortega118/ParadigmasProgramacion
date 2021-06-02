@@ -1,6 +1,3 @@
-#Rectangulo
-#Johan Paul Ortega Murillo
-#S19004894	ISW
 
 from Vertices import Vertice
 
