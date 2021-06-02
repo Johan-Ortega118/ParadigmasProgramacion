@@ -1,6 +1,3 @@
-#Practica1
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 class Persona:
 	
