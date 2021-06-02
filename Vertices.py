@@ -1,6 +1,3 @@
-#Main
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 class Vertice:
     def __init__(self, x, y):
