@@ -1,5 +1,3 @@
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 a = [1,2,3,4]
 a.append(5)
