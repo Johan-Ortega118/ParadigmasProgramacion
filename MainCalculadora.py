@@ -1,7 +1,3 @@
-#Main
-#Johan Paul Ortega Murillo
-#S19004894 ISW
-
 from Calculadora import Calculadora
 
 c = Calculadora()
