@@ -1,6 +1,3 @@
-#Main Linea
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 from Linea import Linea
 from Punto import Punto
