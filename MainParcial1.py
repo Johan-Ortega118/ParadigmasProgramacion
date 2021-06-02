@@ -1,6 +1,3 @@
-#Main rectangulo
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 from Parcial1 import Rectangulo
 from Vertices import Vertice
