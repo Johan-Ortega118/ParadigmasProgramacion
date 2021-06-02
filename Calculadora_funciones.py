@@ -1,6 +1,3 @@
-#Calculadora Funcional
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 def numeros():
 	global a, b
