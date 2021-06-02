@@ -1,6 +1,3 @@
-#Punto
-#Johan Paul Ortega Murillo
-#S19004894 ISW
 
 class Punto:
     def __init__(self, x, y):
